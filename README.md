@@ -1,6 +1,7 @@
 # SimpleTimeService
 
 A simple Python microservice built with Flask that returns the current timestamp and the IP address of the caller in JSON format. This project is containerized using Docker and deployable on AWS using ECS Fargate with Terraform.
+<img width="684" alt="image" src="https://github.com/user-attachments/assets/d9cccb77-d6f5-4dee-b8dc-741fd8457ba1" />
 
 ---
 
