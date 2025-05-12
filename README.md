@@ -21,7 +21,6 @@ A simple Python microservice built with Flask that returns the current timestamp
 .
 ├── app/                 # Application code and Dockerfile
 │   ├── app.py
-│   ├── requirements.txt
 │   └── Dockerfile
 └── terraform/           # Terraform code for AWS ECS deployment
     ├── main.tf
